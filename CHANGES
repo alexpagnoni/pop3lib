@@ -1,0 +1,10 @@
+1.0-2 - 2003/10/09
+------------------
+CHANGES:
+- Now arguments are accepted by reference where needed. (wuh)
+
+
+
+1.0-1 - 2003/06/20
+------------------
+- First release as Ampoliros module.

@@ -1,0 +1,8 @@
+<?xml version='1.0'?>
+<structure>
+
+    <library
+        name="pop3"
+        file="pop3.library"/>
+
+</structure>

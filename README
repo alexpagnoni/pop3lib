@@ -1,0 +1,62 @@
+General information
+-------------------
+
+Class that implements the access to mail boxes using the POP3 protocol.
+ It features:
+ - POP3 server access using normal and apop login methods.
+ - Determining mailbox statistics (mail box size in bytes and the number of stored messages).
+ - Listing of individual message sizes and identifier numbers.
+ - Retrieving arbitraty messages separating the headers from the body and limiting the number of message lines that may be retrieved at once.
+ - Marking messages to be deleted.
+ - Resetting the list of messages to be deleted.
+ - Issuing of protocol NOOP command to avoid connection shutdown while in idle state.
+
+
+
+License
+-------
+See the file named LICENSE.
+
+
+
+Requirements
+------------
+
+Serverside:
+    a working Ampoliros platform installation.
+
+Clientside:
+    a web browser with HTML 4.0 and CSS support.
+
+
+
+Installation
+------------
+
+See the file named INSTALL.
+
+
+
+Additional Information
+----------------------
+
+Ampoliros official home page:
+    http://www.ampoliros.com
+
+POP3 Lib latest distribution:
+    http://www.ampcentral.com
+
+
+To submit a bug report:
+    send an email to bugs@ampoliros.com
+
+To submit a support request:
+    send an email to support@ampoliros.com
+
+
+
+Disclaimer
+----------
+
+There is no warranty, expressed or implied, associated with this product.
+Use at your own risk.

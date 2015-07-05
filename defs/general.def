@@ -1,0 +1,39 @@
+# Module short name
+MODULEIDNAME       = pop3lib
+
+# Module version number
+MODULEVERSION      = 1.0-2
+
+# Module release date
+MODULEDATE         = 2003/10/09
+
+# Module long description
+MODULEDESCRIPTION  = POP3 protocol client access to mail boxes.
+
+# Module dependencies
+MODULEDEPENDENCIES =
+
+# Module suggestions
+MODULESUGGESTIONS  =
+
+MODULE_AUTHOR        = Manuel Lemos
+
+MODULE_AUTHOR_EMAIL  = mlemos@acm.org
+
+MODULE_AUTHOR_SITE   = http://www.ManuelLemos.net/
+
+MODULE_SUPPORT_EMAIL = support@ampoliros.com
+
+MODULE_BUGS_EMAIL    = bugs@ampoliros.com
+
+MODULE_COPYRIGHT     =
+
+MODULE_LICENSE       = BSD
+
+MODULE_LICENSE_FILE  =
+
+MODULE_MAINTAINER    = Alex Pagnoni - Solarix
+
+MODULE_MAINTAINER_EMAIL = alex.pagnoni@solarix.it
+
+MODULE_CATEGORY      = libraries
